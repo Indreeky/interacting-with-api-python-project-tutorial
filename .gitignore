@@ -1,2 +1,5 @@
 .env
 .learn
+
+# Ignorar el archivo credenciales.env
+src/credenciales.env
